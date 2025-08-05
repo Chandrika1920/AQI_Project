@@ -1,0 +1,251 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,PM2.5,27,73,46
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,PM10,51,130,95
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,OZONE,4,24,8
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,SO2,5,73,42
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,PM2.5,37,78,53
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-08-2025 8.00,28.4706914,77.1099364,NO2,22,35,27
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-08-2025 8.00,28.4706914,77.1099364,CO,25,61,49
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",05-08-2025 8.00,28.5512005,77.2735737,PM2.5,33,65,49
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,PM10,72,115,92
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,NO2,14,48,32
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,SO2,13,22,17
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,CO,35,46,38
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,SO2,13,17,15
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-08-2025 8.00,28.5627763,77.1180053,NO2,25,103,57
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,PM2.5,29,90,43
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,PM10,81,134,110
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,NH3,3,3,3
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,SO2,10,11,10
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,CO,55,72,60
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,NO2,4,39,16
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,OZONE,1,13,4
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,NH3,3,10,6
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,SO2,15,22,18
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,OZONE,2,82,29
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,NO2,24,96,44
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,SO2,8,13,10
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,CO,22,86,43
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,OZONE,5,35,13
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,PM2.5,20,93,50
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,NH3,14,16,15
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,OZONE,8,43,13
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,NH3,3,4,3
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,PM10,56,112,88
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,NH3,6,7,6
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,NO2,16,41,28
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",05-08-2025 8.00,28.6573814,77.1585447,PM10,51,139,89
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,PM10,74,137,111
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,PM2.5,28,88,49
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,NH3,5,29,9
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,CO,5,63,15
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,NO2,12,41,23
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,CO,31,83,43
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,SO2,8,20,15
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-08-2025 8.00,28.63611,77.173332,PM10,35,107,73
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,SO2,4,6,5
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,CO,19,68,26
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,CO,38,60,45
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,NO2,14,37,21
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,PM10,50,167,108
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,CO,18,47,27
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,NO2,17,50,28
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,NH3,5,9,6
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,SO2,7,15,10
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,CO,10,43,16
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,OZONE,12,28,13
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,PM2.5,49,88,66
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,OZONE,9,23,14
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,PM2.5,18,40,27
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,PM10,58,126,93
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,CO,45,63,54
+India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",05-08-2025 8.00,28.588333,77.221667,PM2.5,12,61,27
+India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",05-08-2025 8.00,28.588333,77.221667,PM10,54,104,82
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,CO,10,24,16
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,CO,42,64,49
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,CO,24,92,35
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-08-2025 8.00,28.5627763,77.1180053,PM2.5,30,63,43
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,PM10,63,102,82
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",05-08-2025 8.00,28.7256504,77.2011573,PM2.5,17,95,43
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",05-08-2025 8.00,28.5512005,77.2735737,PM10,74,157,117
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",05-08-2025 8.00,28.5512005,77.2735737,OZONE,1,30,10
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,PM2.5,73,131,99
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,NO2,26,51,45
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,NO2,11,39,24
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,OZONE,10,41,13
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,SO2,7,10,8
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,OZONE,9,35,12
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,PM2.5,68,168,107
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,PM10,67,153,95
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,SO2,2,7,3
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,OZONE,21,31,24
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",05-08-2025 8.00,28.6573814,77.1585447,CO,21,104,38
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",05-08-2025 8.00,28.6573814,77.1585447,OZONE,7,53,14
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,NO2,8,40,21
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,PM2.5,22,55,43
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,SO2,3,9,6
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,SO2,1,4,2
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-08-2025 8.00,28.63611,77.173332,OZONE,5,25,9
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,PM10,44,167,100
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,OZONE,14,39,24
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,PM10,81,190,111
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,PM10,62,116,84
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,OZONE,6,19,6
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-08-2025 8.00,28.63611,77.173332,PM2.5,10,62,37
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,NH3,5,10,7
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,SO2,8,11,9
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,CO,4,38,12
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,PM2.5,35,143,54
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,PM10,47,116,87
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,CO,26,44,32
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,PM10,105,249,146
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,OZONE,9,13,10
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,PM2.5,13,55,37
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,NO2,17,37,24
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,OZONE,9,46,15
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,PM2.5,33,65,46
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,NH3,4,7,6
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,SO2,21,39,30
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,CO,35,54,40
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,PM2.5,27,73,45
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,NO2,28,77,49
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,CO,24,100,40
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-08-2025 8.00,28.63611,77.173332,NO2,3,20,9
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",05-08-2025 8.00,28.7256504,77.2011573,NO2,9,40,24
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",05-08-2025 8.00,28.5512005,77.2735737,NO2,10,23,16
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,NH3,6,8,7
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,PM2.5,37,82,53
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,SO2,29,31,30
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,NO2,27,50,35
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,CO,26,66,38
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,PM2.5,10,78,40
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,PM10,63,111,90
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",05-08-2025 8.00,28.6573814,77.1585447,PM2.5,4,96,45
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,PM2.5,27,58,38
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,NH3,6,7,6
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,SO2,6,10,8
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,OZONE,4,30,10
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,PM2.5,38,65,51
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,PM10,59,211,119
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-08-2025 8.00,28.5627763,77.1180053,OZONE,1,2,1
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,PM2.5,74,183,105
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,NO2,44,134,69
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,NH3,9,12,11
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,PM2.5,1,58,43
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,PM10,71,130,96
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,NH3,9,14,12
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,SO2,23,24,24
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,NH3,5,7,6
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,SO2,6,26,15
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,CO,13,50,20
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,NO2,13,26,19
+India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",05-08-2025 8.00,28.588333,77.221667,SO2,3,16,10
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,NO2,21,184,52
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-08-2025 8.00,28.4706914,77.1099364,PM10,1,121,74
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,NH3,3,8,5
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,SO2,6,8,6
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-08-2025 8.00,28.63611,77.173332,CO,64,78,69
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,PM2.5,12,127,61
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,CO,17,54,29
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,PM10,69,174,100
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,OZONE,4,158,15
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,CO,16,39,24
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,PM2.5,46,100,69
+India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",05-08-2025 8.00,28.699793,77.165453,PM10,93,242,150
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,OZONE,7,26,10
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",05-08-2025 8.00,28.7256504,77.2011573,PM10,59,106,77
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",05-08-2025 8.00,28.7256504,77.2011573,OZONE,23,63,30
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",05-08-2025 8.00,28.5512005,77.2735737,CO,48,87,62
+India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",05-08-2025 8.00,28.656756,77.227234,OZONE,39,61,42
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,PM10,69,124,91
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,OZONE,25,32,27
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,PM2.5,22,55,41
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,CO,10,40,21
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,PM2.5,13,100,59
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,OZONE,5,21,11
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,OZONE,18,48,28
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-08-2025 8.00,28.4706914,77.1099364,OZONE,15,57,22
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,PM2.5,37,97,60
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,NO2,3,21,9
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,NH3,3,7,5
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,NH3,5,7,6
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-08-2025 8.00,28.5627763,77.1180053,PM10,64,159,106
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,SO2,1,1,1
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,PM10,35,74,53
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,NO2,15,57,31
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,NO2,16,51,30
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,NH3,7,7,7
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,NH3,8,10,9
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,SO2,2,32,13
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,CO,16,92,26
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,NO2,10,31,21
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,PM2.5,3,177,54
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",05-08-2025 8.00,28.674045,77.131023,PM10,63,120,94
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-08-2025 8.00,28.639652,77.146275,PM10,74,197,129
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,PM2.5,33,77,48
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,NH3,4,11,7
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,OZONE,16,57,21
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,SO2,6,10,7
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,SO2,16,106,62
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,NO2,11,62,28
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,NH3,7,9,8
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,OZONE,2,6,4
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,NH3,1,4,2
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,SO2,5,17,7
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,OZONE,21,40,24
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-08-2025 8.00,28.6514781,77.1473105,SO2,3,19,9
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,NH3,5,7,6
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,OZONE,15,65,27
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,PM10,61,122,91
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,NO2,32,44,38
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,NH3,3,4,4
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,OZONE,8,23,10
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,PM10,56,104,84
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,SO2,8,11,9
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,CO,15,28,19
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-08-2025 8.00,28.570173,76.933762,OZONE,16,39,21
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,NO2,2,32,14
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-08-2025 8.00,28.822836,77.101981,NH3,3,12,7
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,SO2,4,10,7
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-08-2025 8.00,28.56789,77.250515,CO,8,27,14
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",05-08-2025 8.00,28.6573814,77.1585447,NO2,19,96,41
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,NO2,29,50,38
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,NH3,12,16,14
+India,Delhi,Delhi,"Alipur, Delhi - DPCC",05-08-2025 8.00,28.815329,77.15301,SO2,6,22,10
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",05-08-2025 8.00,28.647622,77.315809,NH3,3,14,8
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-08-2025 8.00,28.695381,77.181665,PM10,73,126,104
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-08-2025 8.00,28.4706914,77.1099364,PM2.5,1,139,32
+India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",05-08-2025 8.00,28.588333,77.221667,NO2,36,90,69
+India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",05-08-2025 8.00,28.611281,77.237738,PM10,40,109,76
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",05-08-2025 8.00,28.636429,77.201067,SO2,19,36,27
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,PM2.5,27,75,46
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-08-2025 8.00,28.684678,77.076574,CO,10,34,26
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-08-2025 8.00,28.60909,77.0325413,NO2,23,68,44
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-08-2025 8.00,28.628624,77.24106,NO2,77,97,85
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,PM2.5,57,137,86
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,PM10,83,202,128
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-08-2025 8.00,28.73282,77.170633,CO,7,98,20
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,NO2,35,70,56
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,NH3,6,7,7
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-08-2025 8.00,28.58028,77.233829,OZONE,15,69,30
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-08-2025 8.00,28.498571,77.26484,PM10,36,119,86
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,NO2,13,48,27
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-08-2025 8.00,28.5710274,77.0719006,OZONE,10,75,32
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,NO2,35,55,45
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-08-2025 8.00,28.6811736,77.3025234,NH3,3,5,4
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,PM10,63,137,88
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",05-08-2025 8.00,28.7762,77.051074,CO,20,46,31
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",05-08-2025 8.00,28.7256504,77.2011573,CO,82,122,104
+India,Delhi,Delhi,"DTU, Delhi - CPCB",05-08-2025 8.00,28.7500499,77.1112615,NH3,4,7,6
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,NO2,32,50,41
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-08-2025 8.00,28.563262,77.186937,NH3,2,6,4
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",05-08-2025 8.00,28.732528,77.11992,PM2.5,27,60,42
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",05-08-2025 8.00,28.530785,77.271255,CO,28,74,43
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-08-2025 8.00,28.623763,77.287209,OZONE,1,86,20
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,NO2,44,46,45
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,CO,2,44,13
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-08-2025 8.00,28.5504249,77.2159377,OZONE,22,30,26
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",05-08-2025 8.00,28.710508,77.249485,SO2,NA,NA,NA
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,PM10,38,111,75
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",05-08-2025 8.00,28.531346,77.190156,CO,26,48,34
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-08-2025 8.00,28.672342,77.31526,PM2.5,25,108,44
